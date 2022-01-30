@@ -1,9 +1,9 @@
-# YerOut#
+# YerOut
 
-### Play as a baseball umpire were your only two options are to call it as you see it!##
+### Play as a baseball umpire were your only two options are to call it as you see it!
 
 
-### It was a dozy to create a sport's sim over the last week, but one of my first jobs was an umpire.###
+### It was a dozy to create a sport's sim over the last week, but one of my first jobs was an umpire.
 
 ###### Good luck finishing this game in it's alpha state. want to rework it over the year into a VR Game.
 
